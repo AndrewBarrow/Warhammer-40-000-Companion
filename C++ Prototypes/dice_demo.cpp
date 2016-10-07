@@ -18,7 +18,6 @@ public:
 	void roll(int& dice) {
 		dice = (rand() % 6) + 1;
 	}
-
 };
 
 int main() {
