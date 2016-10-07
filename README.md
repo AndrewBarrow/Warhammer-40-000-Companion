@@ -1,1 +1,1 @@
-# Warhammer 40,000 - Hit/Wound Calculator
+# Warhammer 40,000 Companion App
